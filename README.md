@@ -1,2 +1,2 @@
 # psd-playground
-psd to html of playground design on dribbble
+Cắt giao diện kết hợp PhotoShop
