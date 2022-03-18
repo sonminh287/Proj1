@@ -1,2 +1,3 @@
-# psd-playground
-Cắt giao diện kết hợp PhotoShop
+# The kids playground
+
+The Playground, designed by nonprofit organization to be accessible for all children
