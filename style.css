@@ -97,7 +97,7 @@ body {
 }
 
 .logo {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 600;
   color: #1a2b5f;
 }
@@ -260,6 +260,50 @@ body {
 
 .category__details i {
   margin-left: 1.5rem;
+}
+
+.shadowBox {
+  font-size: 45px;
+}
+
+p {
+  animation: color-change 2s infinite;
+}
+
+@keyframes color-change {
+  0% {
+    color: rgb(16, 193, 31);
+  }
+  10% {
+    color: rgb(242, 0, 255);
+  }
+  20% {
+    color: red;
+  }
+  30% {
+    color: rgba(206, 206, 206, 0.244);
+  }
+  40% {
+    color: rgb(0, 255, 170);
+  }
+  50% {
+    color: blue;
+  }
+  60% {
+    color: rgb(20, 4, 4);
+  }
+  70% {
+    color: red;
+  }
+  80% {
+    color: rgb(34, 0, 255);
+  }
+  90% {
+    color: rgb(0, 255, 94);
+  }
+  100% {
+    color: red;
+  }
 }
 
 .feature {
@@ -660,7 +704,7 @@ body {
 }
 .footer__item_1 {
   width: 100%;
-  height: 23rem;
+  height: 10rem;
 }
 
 .footer__link {

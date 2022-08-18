@@ -1,0 +1,61 @@
+body {
+  font-family: "Poppins";
+  background-color: #20205d;
+  color: #ffffff;
+  background-image: url(https://kynguyenlamdep.com/wp-content/uploads/2022/06/anh-gai-xinh-cuc-dep.jpg);
+}
+.wrap--label {
+  margin-top: 57px;
+  text-align: center;
+}
+
+.label {
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 64px;
+  margin-bottom: 16px;
+  color: rgb(189, 10, 154);
+}
+.wrap--label {
+  margin-bottom: 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.error-message {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #ff0505;
+}
+
+.form-controller {
+  margin-top: 40px;
+}
+.wrap-input {
+  margin-right: 315px;
+  margin-bottom: -10px;
+  color: rgb(182, 127, 255);
+}
+.wrap-inputs {
+  margin-right: 355px;
+  margin-top: 40px;
+  color: rgb(182, 127, 255);
+}
+
+.aaa {
+  height: 50px;
+  margin-top: 10px;
+  width: 78%;
+  border-radius: 5px;
+}
+.aaaa {
+  height: 50px;
+  width: 78%;
+  border-radius: 5px;
+}
+.submit {
+  margin-top: 50px;
+  height: 50px;
+}
